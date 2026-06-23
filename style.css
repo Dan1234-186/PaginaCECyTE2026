@@ -1,0 +1,75 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    background: linear-gradient(to right, #4c4b50, #726f8b);
+    color: #000000;
+    text-align: center;
+}
+
+header {
+    padding: 30PX;
+    background-color: rgba(213, 210, 210, 0.75);
+}
+
+h1 {
+    color: #000000;
+}
+
+.subtitulo {
+    color: #000000;
+    font-size: 18px;
+}
+
+.tarjeta {
+    width: 80%;
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 25px;
+    background-color: rgb(165, 165, 170);
+    border-radius: 15px;
+}
+
+h2 {
+    color: #000000;
+    text-align: left;
+}
+
+p {
+    font-size: 17px;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+img {
+    width: 80%;
+    max-width: 500px;
+    border-radius: 12px;
+    margin: 15px;
+}
+
+a {
+    color: #011653;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+button {
+    background-color: #09090953;
+    color: rgb(1, 8, 22);
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0110239f;
+}
+
+footer {
+    padding: 15px;
+    background-color: rgba(126, 126, 126, 0.7);
+    color: #000000;
+}
+
